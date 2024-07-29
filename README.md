@@ -1,16 +1,17 @@
-## Hi there 👋
+## *...Without the other.*
 
-<!--
-**MatheusLS21/MatheusLS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Matheus Henrique Silva;
 
-Here are some ideas to get you started:
+- Sou um estudante do curso [Alura](https//alura.com.br);🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou aprendendo a linguagem do Javascipt;🌛
+
+Utilizarei este espaço para meus futuros projetos;📓
+
+## Voce pode me conatatar em 📫:
+
+- (43) 98870-0507;
+- matheus.silva1208@escola.pr.gov.br.
+
+
+![](https://media1.tenor.com/m/SYtmb65FJ5MAAAAC/mcgonagall-cat.gif)
