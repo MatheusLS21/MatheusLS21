@@ -11,7 +11,7 @@ Utilizarei este espaço para meus futuros projetos;📓
 ## Voce pode me conatatar em 📫:
 
 - (43) 98870-0507;
-- matheus.silva1208@escola.pr.gov.br.
+- matheus.silva1208@escola.pr.gov.br
 
 
 ![](https://media1.tenor.com/m/SYtmb65FJ5MAAAAC/mcgonagall-cat.gif)
