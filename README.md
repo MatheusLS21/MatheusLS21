@@ -2,11 +2,12 @@
 
 - Meu nome é Matheus Henrique Silva;
 
+- - Sou Casado; 💍
+
 - Sou um estudante do curso [Alura](https//alura.com.br);🤓
 
 - Estou aprendendo a linguagem do Javascipt;🌛
 
-- Sou Casado; 💍
 
 Utilizarei este espaço para meus futuros projetos;📓
 
