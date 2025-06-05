@@ -6,6 +6,8 @@
 
 - Estou aprendendo a linguagem do Javascipt;🌛
 
+- Sou Casado; 💍
+
 Utilizarei este espaço para meus futuros projetos;📓
 
 ## Voce pode me conatatar em 📫:
