@@ -2,7 +2,7 @@
 
 - Meu nome é Matheus Henrique Silva;
 
-- - Sou Casado; 💍
+- Sou Casado; 💍
 
 - Sou um estudante do curso [Alura](https//alura.com.br);🤓
 
